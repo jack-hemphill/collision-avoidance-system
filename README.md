@@ -23,7 +23,7 @@ An Arduino-based collision avoidance system using an HC-SR04 ultrasonic sensor t
 - If distance ≤ threshold: red LED ON, buzzer ON, servo to 180°, stepper rotates backward
 
 ## Demo
-[Add your demo video here (upload or link).](https://youtu.be/U0klazo9PWw)
+(https://youtu.be/U0klazo9PWw)
 
 ## Future Improvements
 - Add 3 distance zones (safe / warning / danger)
